@@ -109,8 +109,6 @@
   - [Method Receiver](methods/receiver.md)
   - [Example](methods/example.md)
 
-- [Exercises](exercises/day-2/exercises.md)
-
 - [Enums](enums.md)
   - [Variant Payloads](enums/variant-payloads.md)
   - [Enum Sizes](enums/sizes.md)
