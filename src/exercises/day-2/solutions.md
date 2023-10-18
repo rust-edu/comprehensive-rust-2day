@@ -1,11 +1,11 @@
-# Day 3 Morning Exercise
+# Day 2 Exercises
 
-## Drawing A Simple GUI
+## Designing a Library
 
-([back to exercise](simple-gui.md))
+([back to exercise](book-library.md))
 
 ```rust
-{{#include simple-gui.rs:solution}}
+{{#include book-library.rs:solution}}
 ```
 
 ## Points and Polygons

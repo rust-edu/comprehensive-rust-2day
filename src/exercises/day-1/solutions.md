@@ -1,4 +1,4 @@
-# Day 1 Morning Exercises
+# Day 1 Exercises
 
 ## Arrays and `for` Loops
 
@@ -45,3 +45,11 @@ fn main() {
 In addition, the type itself would not enforce that the child slices are of the same length, so such variable could contain an invalid matrix.
 
 [1]: https://doc.rust-lang.org/std/convert/trait.AsRef.html
+
+## Luhn Algorithm
+
+([back to exercise](luhn.md))
+
+```rust
+{{#include luhn.rs:solution}}
+```

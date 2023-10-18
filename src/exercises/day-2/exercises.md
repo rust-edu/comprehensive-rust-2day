@@ -1,15 +1,15 @@
-# Day 2: Morning Exercises
+# Day 2: Exercises
 
 We will look at implementing methods in two contexts:
 
 * Storing books and querying the collection
 
-* Keeping track of health statistics for patients
+* Implementing point and polygon types
 
 <details>
 
 After looking at the exercises, you can look at the [solutions] provided.
 
-[solutions]: solutions-morning.md
+[solutions]: solutions.md
 
 </details>

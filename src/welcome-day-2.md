@@ -2,14 +2,12 @@
 
 Now that we have seen a fair amount of Rust, we will continue with:
 
-* Memory management: stack vs heap, manual memory management, scope-based memory
-  management, and garbage collection.
-
-* Ownership: move semantics, copying and cloning, borrowing, and lifetimes.
-
 * Structs and methods.
 
-* The Standard Library: `String`, `Option` and `Result`, `Vec`, `HashMap`, `Rc`
-  and `Arc`.
+* Enums and pattern matching.
 
-* Modules: visibility, paths, and filesystem hierarchy.
+* Details of error handling.
+
+* Generic types and traits.
+
+Finally, we will take a very quick look at "unsafe" Rust.

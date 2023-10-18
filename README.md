@@ -1,46 +1,30 @@
 # Comprehensive Rust 🦀
 
-[![Build workflow](https://img.shields.io/github/actions/workflow/status/google/comprehensive-rust/build.yml?style=flat-square)](https://github.com/google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain)
-[![GitHub contributors](https://img.shields.io/github/contributors/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/stargazers)
+This repository is a fork of the source code for
+Comprehensive Rust 🦀, a multi-day Rust course developed by
+the Android team. The course covers all aspects of Rust,
+from basic syntax to generics and error handling. This
+experimental fork is intended to be taught in just two
+days. As such, it omits some material and zooms over other.
 
-This repository has the source code for Comprehensive Rust 🦀, a multi-day Rust
-course developed by the Android team. The course covers all aspects of Rust,
-from basic syntax to generics and error handling. It also includes deep dives on
-[Android], [bare-metal], and [concurrency].
-
-[Android]: https://google.github.io/comprehensive-rust/android.html
-[bare-metal]: https://google.github.io/comprehensive-rust/bare-metal.html
-[concurrency]: https://google.github.io/comprehensive-rust/concurrency.html
-
-Read the course at **https://google.github.io/comprehensive-rust/**.
+Read the course at **https://rust-edu.github.io/comprehensive-rust-2day/**.
 
 ## Course Format and Target Audience
 
-The course is used internally at Google when teaching Rust to experienced
-software engineers. They typically have a background in C++ or Java.
+The three-day version of this course is used internally at
+Google when teaching Rust to experienced software
+engineers. They typically have a background in C++ or Java.
 
-The course is taught in a classroom setting and we hope it will be useful for
-others who want to teach Rust to their team. The course will be less useful for
-self-study since you miss out on the discussions happening in the classroom. You
-don't see the questions and answers and you don't see the compiler errors we
-trigger when going through the code samples. We hope to improve on this via
-[speaker notes](https://github.com/google/comprehensive-rust/issues/53) and by
-[publishing videos](https://github.com/google/comprehensive-rust/issues/52).
-
-## Press
-
-Articles and blog posts from around the web which cover Comprehensive Rust:
-
-- 2023-09-08:
-  _[Teaching Rust in 5 days](https://mo8it.com/blog/teaching-rust/)_.
-  Comprehensive Rust was used as a base for a 5-day university class on Rust.
-- 2023-09-21:
-  _[Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)_.
-  We published a blog post with details on the development of the course.
-- 2023-10-02:
-  _[In Search of Rust Developers, Companies Turn to In-House Training](https://www.darkreading.com/application-security/google-microsoft-take-refuge-in-rust-languages-better-security)_.
-  About how Microsoft, Google, and others are training people in Rust.
+The course is taught in a classroom setting and we hope it
+will be useful for others who want to teach Rust to their
+team. The course will be less useful for self-study since
+you miss out on the discussions happening in the
+classroom. You don't see the questions and answers and you
+don't see the compiler errors we trigger when going through
+the code samples. We hope to improve on this via [speaker
+notes](https://github.com/google/comprehensive-rust/issues/53)
+and by [publishing
+videos](https://github.com/google/comprehensive-rust/issues/52).
 
 ## Building
 
@@ -94,7 +78,8 @@ where `xx` is the ISO 639 language code (e.g. `da` for the Danish translation).
 
 ## Contact
 
-For questions or comments, please contact
-[Martin Geisler](mailto:mgeisler@google.com) or start a
-[discussion on GitHub](https://github.com/google/comprehensive-rust/discussions).
+For questions or comments on this forked course, please
+contact [Bart Massey](bart@rust-edu.org) or start a
+[discussion on
+GitHub](https://github.com/rust-edu/comprehensive-rust-2day).
 We would love to hear from you.

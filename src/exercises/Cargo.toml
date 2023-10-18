@@ -17,36 +17,10 @@ name = "book-library"
 path = "day-2/book-library.rs"
 
 [[bin]]
-name = "health-statistics"
-path = "../../third_party/rust-on-exercism/health-statistics.rs"
-
-[[bin]]
-name = "strings-iterators"
-path = "day-2/strings-iterators.rs"
-
-[[bin]]
-name = "simple-gui"
-path = "day-3/simple-gui.rs"
-
-[[bin]]
 name = "points-polygons"
-path = "day-3/points-polygons.rs"
-
-[[bin]]
-name = "safe-ffi-wrapper"
-path = "day-3/safe-ffi-wrapper.rs"
-
-[[bin]]
-name = "dining-philosophers"
-path = "concurrency/dining-philosophers.rs"
-
-[[bin]]
-name = "link-checker"
-path = "concurrency/link-checker.rs"
+path = "day-2/points-polygons.rs"
 
 [dependencies]
-reqwest = { version = "0.11.12", features = ["blocking"] }
-scraper = "0.15.0"
 thiserror = "1.0.37"
 
 [dev-dependencies]
