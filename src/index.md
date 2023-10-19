@@ -25,15 +25,6 @@ Some non-goals of this course are:
 * Covering specialized topics: the full version of Comprehensive Rust includes
   "deep dives" on several topics.
 
-  * [Android](android.md): a half-day course on using Rust for Android platform
-    development (AOSP). This includes interoperability with C, C++, and Java.
-  * [Bare-metal](bare-metal.md): a whole-day class on using Rust for bare-metal
-    (embedded) development. Both microcontrollers and application processors are covered.
-  * [Concurrency](concurrency.md): a whole-day class on concurrency in Rust. We
-    cover both classical concurrency (preemptively scheduling using threads and
-    mutexes) and async/await concurrency (cooperative multitasking using
-    futures).
-
 ## Assumptions
 
 The course assumes that you already know how to program. Rust is a statically-typed language and we will sometimes make comparisons with C and C++ to better explain or contrast the Rust approach.
