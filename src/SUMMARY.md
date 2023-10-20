@@ -131,6 +131,11 @@
     - [Dynamic Error Types](error-handling/dynamic-errors.md)
     - [Adding Context to Errors](error-handling/error-contexts.md)
 
+- [Modules](modules.md)
+  - [Visibility](modules/visibility.md)
+  - [Paths](modules/paths.md)
+  - [Filesystem Hierarchy](modules/filesystem.md)
+
 # Day 2: Afternoon
 
 - [Generics](generics.md)
